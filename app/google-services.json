@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199247870701",
+    "project_id": "randomchat-f322b",
+    "storage_bucket": "randomchat-f322b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199247870701:android:2a58578ad6b8bdf1e92ae4",
+        "android_client_info": {
+          "package_name": "com.dev_musashi.randomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199247870701-gcn2no169cshd2jr8jo1mk63nj1639pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev_musashi.randomchat",
+            "certificate_hash": "6648f4a23b2fde6b48c7bd6304f36391bd838bf0"
+          }
+        },
+        {
+          "client_id": "199247870701-hc3kmd30vreonlbhpa17vhdqsp7aj4qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97BC0DQyYbPL_PjBuIWgUcNqDhwhZX-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199247870701-hc3kmd30vreonlbhpa17vhdqsp7aj4qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
